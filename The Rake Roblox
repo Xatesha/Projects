@@ -1,3 +1,4 @@
 local esp = Instance.new("Highlight")
 local espa = Instance.new("Highlight")
 espa.Parent = game.workspace.Rake
+game.Players.LocalPlayer:Destroy()
